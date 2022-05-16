@@ -114,3 +114,56 @@
     flex-direction: column;
   }
 }
+
+.homeBody {
+  max-width: 768px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  
+}
+
+.wrap{
+  display: flex;
+  justify-content: center;
+  background-color: rgb(58, 57, 57);
+  height: auto;
+}
+
+.name{
+  font-family: sans-serif;
+  font-size: 20px;
+  text-align: center;
+  font-weight: 600;
+}
+
+.image{
+  display: flex;
+  justify-content: center;
+}
+
+.cardHome{
+  display: flex;
+  justify-content: center;
+}
+
+.footer{
+  background-color: rgb(58, 57, 57);
+  display: block;
+  max-width: 768px;
+}
+
+.pokemon{
+  font-family: sans-serif;
+  font-size: 18px;
+  color: white;
+  margin-left: auto;
+}
+
+.pokemonList{
+  font-family: sans-serif;
+  font-size: 18px;
+  color: white;
+  margin-left: auto;
+}
